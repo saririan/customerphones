@@ -102,4 +102,15 @@ Content-Type : application/json
 ]
 ```
 
+**Request body (raw)/phones**
 
+```http://..../api/phones
+[
+    "11111",
+    "22222",
+    "33333",
+    "44444",
+    "55555",
+    "66666"
+]
+```
